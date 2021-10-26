@@ -53,4 +53,7 @@
 <br />
 
 - You can copy the default program to tweet from [here](simple-tweet-without-any-media.py).
+<br />
+
+- If you want to tweet something with an image and some text then use this [code](tweet-with-media.py).
 ---
