@@ -56,4 +56,9 @@
 <br />
 
 - If you want to tweet something with an image and some text then use this [code](tweet-with-media.py). For some people, the code might not run on their PCs, in that case you can use this [code](tweet-with-media-1.py).
+
+- If you want to tweet only some text, here are few program which you can use to do the same:
+
+    - [Tweet with text](simple-tweet-without-any-media-2.py)
+    - [Tweet with text-1](simple-tweet-without-any-media-3.py)
 ---
