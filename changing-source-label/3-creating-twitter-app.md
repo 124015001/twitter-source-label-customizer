@@ -48,7 +48,7 @@ So, once you get approval from twitter for being selected into twitter developer
 
 </div>
 
-- Then, scroll down to "Authentication Settings" and unable 3rd party authorisation. It will also ask for your website link, there you can give your twitter account's link.
+- Then, scroll down to "Authentication Settings" and Enable 3rd party authorisation. It will also ask for your website link, there you can give your twitter account's link.
 
 <div align = 'center'>
 
