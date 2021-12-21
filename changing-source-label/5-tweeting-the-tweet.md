@@ -62,11 +62,4 @@
 <br />
 This is how it will look as a tweet when added with an image.
 
-- If you want to tweet only some text, here are few program which you can use to do the same:
-
-    - [Tweet with text](simple-tweet-without-any-media-2.py)
-    - [Tweet with text-1](simple-tweet-without-any-media-3.py)
-
-- If you want to retweet a tweet then use this [code](Retweeting-the-tweet.py).
-
 ---
