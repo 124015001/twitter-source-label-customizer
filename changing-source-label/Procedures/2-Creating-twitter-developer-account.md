@@ -21,3 +21,7 @@ So the basic eligibility, to get into Twitter Developer and to access their API,
 - Since, I am a Student so went with Academic and under that chose Student's option. You might choose whatever you feel like or whatever role suits you the best.
 
 - After that, you have to go through 4 stages of filling the application which you need to fill as per your intention to use the developer account.
+
+![image](https://user-images.githubusercontent.com/74541810/136655889-61796e39-63c7-4f6b-8995-edca070d1629.png)
+
+- Once, you complete all the stages. You need to submit your application.
