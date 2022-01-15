@@ -29,3 +29,8 @@ So the basic eligibility, to get into Twitter Developer and to access their API,
 ![image](https://user-images.githubusercontent.com/74541810/136656071-4fec7a42-596d-498f-896e-49ca43efb4d4.png)
 
 - If they would require any other information related to you they will mail to the same mail which linked with you twitter account and you need to provide them with the required details. Failing to give the information to them may result in rejection of your application too.
+
+- Now wait till your application gets approved by them. Once, its done you will receive a mail as shown below:
+
+![image](https://user-images.githubusercontent.com/74541810/136656219-a6a725d7-879d-46ce-bd2c-1585435db8ac.png)
+<br />
