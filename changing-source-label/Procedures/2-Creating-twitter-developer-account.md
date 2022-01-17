@@ -34,3 +34,9 @@ So the basic eligibility, to get into Twitter Developer and to access their API,
 
 ![image](https://user-images.githubusercontent.com/74541810/136656219-a6a725d7-879d-46ce-bd2c-1585435db8ac.png)
 <br />
+
+### _Congratulation! You are now a part of Twitter developer community._
+
+<br />
+
+---
