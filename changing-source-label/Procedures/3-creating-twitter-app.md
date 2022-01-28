@@ -3,3 +3,5 @@
 Creating a twitter app is same as customizing your twitter source label. 
 
 So, once you get approval from twitter for being selected into twitter developer. Now you have to create an app.
+
+- Open this [link](https://developer.twitter.com/en/portal/dashboard). You will be directed to the Dashboard of your developer account as shown below.
