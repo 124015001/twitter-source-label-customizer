@@ -19,3 +19,5 @@ So, once you get approval from twitter for being selected into twitter developer
 - After Clicking on Overview, the page will look like this.
 
 ![image](https://user-images.githubusercontent.com/74541810/136690508-c9de23ae-218b-4d89-a47b-7ab315dc9d7d.png)
+
+- After that scroll down a little on this same page and then click on Create App.
