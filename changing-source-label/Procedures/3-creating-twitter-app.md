@@ -23,3 +23,5 @@ So, once you get approval from twitter for being selected into twitter developer
 - After that scroll down a little on this same page and then click on Create App.
 
 ![image](https://user-images.githubusercontent.com/74541810/136690550-8122cde0-9f2b-455d-8afb-cc2d3eda5bc8.png)
+
+- Now give a name to your App i.e. the name you want to give to your source label.
