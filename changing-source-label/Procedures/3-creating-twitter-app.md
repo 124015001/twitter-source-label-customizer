@@ -27,3 +27,5 @@ So, once you get approval from twitter for being selected into twitter developer
 - Now give a name to your App i.e. the name you want to give to your source label.
 
 ![image](https://user-images.githubusercontent.com/74541810/136690610-44ef413e-3fb8-4aae-9b22-626721a07bbe.png)
+
+- The name should be unique i.e. it shouldn't be taken/used by someone before you.
