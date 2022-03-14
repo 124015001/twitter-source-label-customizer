@@ -35,3 +35,5 @@ So, once you get approval from twitter for being selected into twitter developer
 ![image](https://user-images.githubusercontent.com/74541810/136690667-fb355077-cfac-40d1-b996-b24a13196317.png)
 
 </div>
+
+- Now, once you name your app, you will be redirected to API keys, tokens and there click on "App Settings".
