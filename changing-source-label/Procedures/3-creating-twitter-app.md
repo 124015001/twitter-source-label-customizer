@@ -41,3 +41,5 @@ So, once you get approval from twitter for being selected into twitter developer
 ![image](https://user-images.githubusercontent.com/74541810/136690748-1f22ebfb-0296-4d84-960b-e9960f4fabe1.png)
 
 - After that, scroll down in the App settings to App Permissions and change it from "Read Only" to "Read and Write".
+
+![image](https://user-images.githubusercontent.com/74541810/136690550-8122cde0-9f2b-455d-8afb-cc2d3eda5bc8.png)
