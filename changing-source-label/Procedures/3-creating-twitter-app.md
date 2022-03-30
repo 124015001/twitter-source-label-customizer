@@ -44,4 +44,8 @@ So, once you get approval from twitter for being selected into twitter developer
 
 ![image](https://user-images.githubusercontent.com/74541810/136690550-8122cde0-9f2b-455d-8afb-cc2d3eda5bc8.png)
 
-- Now give a name to your App i.e. the name you want to give to your source label.
+</div>
+
+- Then, scroll down to "Authentication Settings" and Enable 3rd party authorisation. It will also ask for your website link, there you can give your twitter account's link.
+
+<div align = 'center'>
