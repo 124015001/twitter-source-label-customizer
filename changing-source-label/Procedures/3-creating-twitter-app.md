@@ -49,3 +49,5 @@ So, once you get approval from twitter for being selected into twitter developer
 - Then, scroll down to "Authentication Settings" and Enable 3rd party authorisation. It will also ask for your website link, there you can give your twitter account's link.
 
 <div align = 'center'>
+
+![image](https://user-images.githubusercontent.com/74541810/136690922-07d943da-0e1a-4c67-85c6-dece2207b2f0.png)
