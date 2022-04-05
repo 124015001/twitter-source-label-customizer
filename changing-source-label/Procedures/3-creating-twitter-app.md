@@ -51,3 +51,7 @@ So, once you get approval from twitter for being selected into twitter developer
 <div align = 'center'>
 
 ![image](https://user-images.githubusercontent.com/74541810/136690922-07d943da-0e1a-4c67-85c6-dece2207b2f0.png)
+  
+</div>
+
+- Now, scroll up to the top and click on "Key and Tokens".
