@@ -59,3 +59,7 @@ So, once you get approval from twitter for being selected into twitter developer
 <div align = 'center'>
 
 ![image](https://user-images.githubusercontent.com/74541810/136690979-558a0202-b3b0-4688-aa02-eddf11b0ad1b.png)
+
+</div>
+
+- Inside that, you will see "Consumer Keys" and "Authentication Tokens".
