@@ -71,3 +71,7 @@ So, once you get approval from twitter for being selected into twitter developer
 </div>
 
 - If you click on Regenerate of "API Key" and "Access Token", you will see your API keys and token that you will require further.
+
+<div align = 'center'>
+
+![image](https://user-images.githubusercontent.com/74541810/136691101-9f7471eb-84b9-4cf0-81eb-5fba02d9ef56.png)
