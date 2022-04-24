@@ -75,3 +75,7 @@ So, once you get approval from twitter for being selected into twitter developer
 <div align = 'center'>
 
 ![image](https://user-images.githubusercontent.com/74541810/136691101-9f7471eb-84b9-4cf0-81eb-5fba02d9ef56.png)
+
+![image](https://user-images.githubusercontent.com/74541810/136691110-c764fffe-23f1-494d-b192-b9a841757e51.png)
+
+</div>
