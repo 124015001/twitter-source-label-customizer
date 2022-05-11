@@ -12,3 +12,4 @@
 
 - The version of Python may differ time to time, as of now writing this the latest version is Python 3.10. If you will check after few months, there might be an upgrade in the version, which is totally fine.
 - For reference, you can use this [link](https://www.youtube.com/watch?v=1JJ8-sCwDs4) to know how to download Python in your system.
+- Now, open the file location where you have installed Python and then open the "Scripts" folder.
