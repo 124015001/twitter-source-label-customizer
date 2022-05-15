@@ -15,3 +15,5 @@
 - Now, open the file location where you have installed Python and then open the "Scripts" folder.
 
 ![image](https://user-images.githubusercontent.com/74541810/136798314-7418ff03-69ff-4dcd-b4be-a8ba9b52adde.png)
+
+- Copy the "Scripts" file location.
