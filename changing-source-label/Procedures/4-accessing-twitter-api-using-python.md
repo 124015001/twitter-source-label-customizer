@@ -17,3 +17,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/136798314-7418ff03-69ff-4dcd-b4be-a8ba9b52adde.png)
 
 - Copy the "Scripts" file location.
+
+![image](https://user-images.githubusercontent.com/74541810/136798459-e27dfa7c-774d-4e8e-883d-565ca03cfdf5.png)
