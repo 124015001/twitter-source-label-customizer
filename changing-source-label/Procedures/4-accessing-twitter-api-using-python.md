@@ -21,3 +21,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/136798459-e27dfa7c-774d-4e8e-883d-565ca03cfdf5.png)
 
 - Now, open command prompt, type cd, give space and paste the file location.
+
+> cd C:\Python310\Scripts
