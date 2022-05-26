@@ -23,3 +23,5 @@
 - Now, open command prompt, type cd, give space and paste the file location.
 
 > cd C:\Python310\Scripts
+
+![image](https://user-images.githubusercontent.com/74541810/136803240-41e6756b-37c7-426d-9c01-8707e81ccf41.png)
