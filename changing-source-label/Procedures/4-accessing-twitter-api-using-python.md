@@ -27,3 +27,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/136803240-41e6756b-37c7-426d-9c01-8707e81ccf41.png)
 
 - Now, you will come inside "Scripts" folder. All the the changes made from now on will get updated in "Scripts" folder only.
+
+- After that, type "pip install tweepy" and click enter.
