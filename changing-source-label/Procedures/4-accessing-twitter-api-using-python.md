@@ -29,3 +29,5 @@
 - Now, you will come inside "Scripts" folder. All the the changes made from now on will get updated in "Scripts" folder only.
 
 - After that, type "pip install tweepy" and click enter.
+
+> pip install tweepy
