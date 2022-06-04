@@ -35,3 +35,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/136802784-48ef1bf6-08c4-4a04-954d-094068e9a994.png)
 
 - Once successfully installed, now you can close the command prompt.
+
+- Once successfully installed, now you can close the command prompt.
