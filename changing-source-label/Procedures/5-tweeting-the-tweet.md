@@ -1,1 +1,1 @@
-
+- Once installed Python successfully. Now, go to the Python scripts. Right-click and create a text document.
