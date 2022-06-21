@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/137192668-b62effa6-faae-4053-a77e-f5796f172a9c.png)
 
 <br />
+
+- After that, replace the space given with your API i.e. API Key, API Secret Key, Access Token, and Access Token Secret.
