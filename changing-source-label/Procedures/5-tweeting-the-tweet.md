@@ -11,3 +11,5 @@
 <br />
 
 - After that, replace the space given with your API i.e. API Key, API Secret Key, Access Token, and Access Token Secret.
+
+![image](https://user-images.githubusercontent.com/74541810/137193085-af07af00-053f-48f8-a37d-80d5dbd1b0c6.png)
