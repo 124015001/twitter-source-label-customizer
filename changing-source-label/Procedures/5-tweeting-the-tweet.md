@@ -29,5 +29,3 @@
 ![image](https://user-images.githubusercontent.com/74541810/137194197-6a04b395-89bd-4853-ba1c-1a0f6db7125f.png)
 
 <br />
-
-- Then, save the file, name it your desired name and remember to save the file with ".py" extension and with "All files" type.
