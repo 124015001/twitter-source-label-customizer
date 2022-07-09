@@ -29,3 +29,5 @@
 ![image](https://user-images.githubusercontent.com/74541810/137194197-6a04b395-89bd-4853-ba1c-1a0f6db7125f.png)
 
 <br />
+
+- Now go to command prompt, and write the name of the file with .py extension.
