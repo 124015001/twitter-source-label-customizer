@@ -16,12 +16,11 @@ auth.set_access_token(access_token, access_token_secret)   # don't fill the API 
 # calling the api 
 api = tweepy.API(auth)
 
-print("What would you like to say with your image?") 
 # the text to be tweeted
 status = input("What would you like to say with your image?")   # enter your desired text to be tweeted
   
 # the path of the media to be uploaded
-filename = input("What is thge direct path for your image?")
+filename = input("What is the direct path for your image?")
   
 # posting the tweet
 api.update_with_media(filename, status)
