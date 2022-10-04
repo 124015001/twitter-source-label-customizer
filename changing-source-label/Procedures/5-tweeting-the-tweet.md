@@ -39,3 +39,11 @@
 - Write anything you want to tweet about.
 
 ![image](https://user-images.githubusercontent.com/74541810/137194561-2cc6e8a6-7fda-4c83-a7dd-679cd9f7e353.png)
+
+<br />
+- Once tweeted, it will show "Your tweet has been tweeted !"
+<br />
+
+- Here's how the tweet would look like.
+
+![image](https://user-images.githubusercontent.com/74541810/137195326-f3abf740-7b22-4075-8e9a-beb9cbe73eda.png)
