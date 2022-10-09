@@ -47,3 +47,17 @@
 - Here's how the tweet would look like.
 
 ![image](https://user-images.githubusercontent.com/74541810/137195326-f3abf740-7b22-4075-8e9a-beb9cbe73eda.png)
+
+<br />
+
+- You can copy the default program to tweet from [here](simple-tweet-without-any-media.py).
+<br />
+
+- If you want to tweet something with an image and some text then use this [code](tweet-with-media.py). For some people, the code might not run on their PCs, in that case you can use this [code](tweet-with-media-1.py).
+
+![image](https://user-images.githubusercontent.com/74541810/139540472-8e9029ae-23ac-401d-9046-202f1de4cb52.png)
+
+<br />
+This is how it will look as a tweet when added with an image.
+
+---
