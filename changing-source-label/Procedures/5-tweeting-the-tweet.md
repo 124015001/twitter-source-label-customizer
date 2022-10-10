@@ -4,7 +4,7 @@
 
 <br />
 
-- Now open the text document that you created just now and paste [this](simple-tweet-without-any-media.py) code.
+- Now open the text document that you created just now and paste [this](1.1-tweet-without-media.py) code.
 
 ![image](https://user-images.githubusercontent.com/74541810/137192668-b62effa6-faae-4053-a77e-f5796f172a9c.png)
 
