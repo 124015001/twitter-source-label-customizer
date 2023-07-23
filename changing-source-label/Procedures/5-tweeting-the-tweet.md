@@ -4,7 +4,7 @@
 
 <br />
 
-- Now open the text document that you created just now and paste [this](1.1-tweet-without-media.py) code.
+- Now open the text document that you created just now and paste [this](https://github.com/124015001/twitter-source-label-customizer/blob/main/changing-source-label/codes/1.1-tweet-without-media.py) code.
 
 ![image](https://user-images.githubusercontent.com/74541810/137192668-b62effa6-faae-4053-a77e-f5796f172a9c.png)
 
@@ -50,10 +50,10 @@
 
 <br />
 
-- You can copy the default program to tweet from [here](1.2-tweet-without-media.py).
+- You can copy the default program to tweet from [here](https://github.com/124015001/twitter-source-label-customizer/blob/main/changing-source-label/codes/1.2-tweet-without-media.py).
 <br />
 
-- If you want to tweet something with an image and some text then use this [code](tweet-with-media.py). For some people, the code might not run on their PCs, in that case you can use this [code](tweet-with-media-1.py).
+- If you want to tweet something with an image and some text then use this [code](https://github.com/124015001/twitter-source-label-customizer/blob/main/changing-source-label/codes/2.1-tweet-with-media.py). For some people, the code might not run on their PCs, in that case you can use this [code](https://github.com/124015001/twitter-source-label-customizer/blob/main/changing-source-label/codes/2.3-tweet-with-media.py).
 
 ![image](https://user-images.githubusercontent.com/74541810/139540472-8e9029ae-23ac-401d-9046-202f1de4cb52.png)
 
