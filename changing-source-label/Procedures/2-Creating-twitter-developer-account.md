@@ -1,6 +1,6 @@
 # _Creating a Twitter Developer Account_
 
-So the basic eligibility, to get into Twitter Developer and to access their API, tools, is to have a Twitter account first. Considering, you all have a twitter account on your name, you now need to apply for the Twitter Developer Account through an application process as shown in the images below. Incase, if you already have a developer account then skip reading this file and directly go to see the other procedures.
+So the basic eligibility, to get into Twitter Developer and to access their API tools, is to have a Twitter account first. Considering, you have a twitter account on your name, you now need to apply for the Twitter Developer Account through an application process as shown in the images below. Incase, if you already have a developer account then skip reading this file and directly go to see the other procedures.
 
 ## _To apply for a Twitter Developer Account:_
 
@@ -20,7 +20,7 @@ So the basic eligibility, to get into Twitter Developer and to access their API,
 
 - Since, I am a Student so went with Academic and under that chose Student's option. You might choose whatever you feel like or whatever role suits you the best.
 
-- After that, you have to go through 4 stages of filling the application which you need to fill as per your intention to use the developer account.
+- During the app creation process, you'll need to provide information about your use case, the type of access you need (such as read-only access or read/write access to Twitter data), and details about how you plan to use the Twitter API.
 
 ![image](https://user-images.githubusercontent.com/74541810/136655889-61796e39-63c7-4f6b-8995-edca070d1629.png)
 
@@ -28,15 +28,14 @@ So the basic eligibility, to get into Twitter Developer and to access their API,
 
 ![image](https://user-images.githubusercontent.com/74541810/136656071-4fec7a42-596d-498f-896e-49ca43efb4d4.png)
 
-- If they would require any other information related to you they will mail to the same mail which linked with you twitter account and you need to provide them with the required details. Failing to give the information to them may result in rejection of your application too.
+- Twitter will review your application, and this process may take some time. They will evaluate your use case and determine whether to grant you access to the Twitter API. Failing to give the required information may result in rejection of your application too.
 
 - Now wait till your application gets approved by them. Once, its done you will receive a mail as shown below:
 
 ![image](https://user-images.githubusercontent.com/74541810/136656219-a6a725d7-879d-46ce-bd2c-1585435db8ac.png)
 <br />
 
-### _Congratulation! You are now a part of Twitter developer community._
-
+Congratulation! You are now a part of Twitter developer community.
 <br />
 
 ---
