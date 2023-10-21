@@ -46,7 +46,7 @@ So, once you get approval from twitter for being selected into twitter developer
 
 </div>
 
-- Then, scroll down to "Authentication Settings" and Enable 3rd party authorisation. It will also ask for your website link, there you can give your twitter account's link.
+- Then, scroll down to "Authentication Settings" and Enable 3rd party authorization. It will also ask for your website link, there you can give your twitter account's link.
 
 <div align = 'center'>
 
@@ -70,7 +70,7 @@ So, once you get approval from twitter for being selected into twitter developer
 
 </div>
 
-- If you click on Regenerate of "API Key" and "Access Token", you will see your API keys and token that you will require further.
+- If you click on Regenerate, you will see your API keys and token being generated that you will require further.
 
 <div align = 'center'>
 
